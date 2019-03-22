@@ -1,3 +1,5 @@
+# Fly Lab Script
+
 This modifies a Google Form and sends an email on the submission based on the cross inputted.
 Traits are defined in the settings section.
 
